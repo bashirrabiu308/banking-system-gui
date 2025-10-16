@@ -1,0 +1,72 @@
+[
+    {
+        "full_name": "Bashir Rabiu Idris",
+        "account_number": "8002148223",
+        "pin": "7323",
+        "balance": 14500.0,
+        "transactions": []
+    },
+    {
+        "full_name": "Hassan Abdullahi Haruna",
+        "account_number": "4250935950",
+        "pin": "4190",
+        "balance": 1000.0,
+        "transactions": []
+    },
+    {
+        "full_name": "Al'amin Lawal Al Hassan",
+        "account_number": "9134620517",
+        "pin": "9904",
+        "balance": 3000.0,
+        "transactions": []
+    },
+    {
+        "full_name": "Ibrahim Muhammad Sani",
+        "account_number": "9392851152",
+        "pin": "3975",
+        "balance": 40000.0,
+        "transactions": []
+    },
+    {
+        "full_name": "Ibrahim Aliyu Muhammad",
+        "account_number": "8724014217",
+        "pin": "5b3d0ceb392697f565110ba84bdfa99848b6a4e2b0e9fbd2779fcab324aa0cf6",
+        "balance": 6000.0,
+        "transactions": []
+    },
+    {
+        "full_name": "Admin",
+        "pin": "1234",
+        "balance": 0.0,
+        "account_number": "0123456789",
+        "is_admin": true
+    },
+    {
+        "full_name": "Sani Hassan Auwal",
+        "pin": "4444",
+        "balance": 0.0,
+        "account_number": "2531764191",
+        "is_admin": false
+    },
+    {
+        "full_name": "Rabiu Muhammad Idris",
+        "pin": "5555",
+        "balance": 0.0,
+        "account_number": "4449743557",
+        "is_admin": false
+    },
+    {
+        "full_name": "Fauziyya Rabiu Idris",
+        "pin": "6767",
+        "balance": 2000.0,
+        "account_number": "6961289131",
+        "is_admin": false
+    },
+    {
+        "full_name": "Maryam Auwal Sani",
+        "pin": "3040",
+        "balance": 0.0,
+        "account_number": "4227140329",
+        "is_admin": false
+    }
+]

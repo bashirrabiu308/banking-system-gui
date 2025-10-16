@@ -1,0 +1,14 @@
+# ================================
+# SwiftBank Banking System (Tkinter)
+# Developed by Bashir
+# ================================
+
+# --- GUI and Image Handling ---
+Pillow==10.2.0   # For loading and resizing logo images
+
+# --- Optional Development Tools ---
+# pyinstaller==6.0.0   # To convert project to .exe
+# requests==2.32.3     # For future API or web features
+
+# --- Note ---
+# Tkinter is included with Python by default, no installation needed.
